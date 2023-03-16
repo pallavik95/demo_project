@@ -1,1 +1,1 @@
-# demo_project using HTML and CSS
+# project using HTML and CSS
